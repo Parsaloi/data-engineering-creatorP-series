@@ -1,0 +1,2 @@
+$ grep "Example" sample.txt > output.txt
+#This command has run succesfully and the results were written in the output.txt file
