@@ -1,0 +1,10 @@
+Wrapped English text data is an essential component of many NLP models, and can be found in various formats such as paragraphs, articles and web pages. For example, a dataset that contains news articles can be pre-processed and cleaned to generate wrapped text data that can then be used for training models to identify entities, extract information and summarize text. Another example is social media data that can be used to train sentiment analysis models and understand trends and behavior. It is important to have a diverse range of examples in wrapped text data to ensure models are robust and can generalize to new instances.Here is an example of a wrapped English text data with multiple lines that include the word 'example'. Please note that this text is for demonstration purposes only and does not reflect any actual context:
+
+Example 1: 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit quam eget congue ultricies. In hac habitasse platea dictumst. Aliquam erat volutpat. Vivamus eu lobortis nunc. 
+Example 2: 
+Pellentesque ac nisi consequat, placerat quam eu, fermentum massa. Donec egestas aliquam lacus, sit amet lacinia enim rhoncus nec. Mauris ac massa in ante malesuada congue.
+Example 3: 
+Proin laoreet metus purus, id rhoncus metus consectetur a. Sed scelerisque congue ante, at pretium nisl pulvinar sit amet. 
+Example 4: 
+Fusce ut felis finibus, consequat neque vel, dictum massa. Sed nec sollicitudin mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
